@@ -1,4 +1,3 @@
-# hello-world
-my first repository
+# Algorithms & Data Structures
+Practicing questions for various concepts of Data Structures and algorithms .
 
-hello github i am balpreet singh , student at the YMCA university of science and technology. i study Information technology. i like coding and problem solving 
